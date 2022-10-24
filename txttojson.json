@@ -1,0 +1,18 @@
+{
+    "Year": "Player\tAge\tHometown\tHome State\tTm\tG\tGS\tCmp\tAtt\tYds\tTD\tInt\tAtt\tYds\tY/A\tTD\tRec\tYds\tY/R\tTD\tFantPos\tFantPt\tHeight (inches)\tWeight\tCollege\tConference\tCollege wins\tCollege losses\tDOB\tDraft Round\tDraft Year\tWonderlic\t40\u00a0Yard\tBench Press\tVert Leap\u00a0(in)\tBroad Jump\u00a0(in)\tShuttle\t3Cone",
+    "2006": "Chris Hetherington\t34\tNorth Branford\tCT\tSFO\t3\t2\t0\t0\t0\t0\t0\t0\t0\t\t0\t2\t0\t0\t0\tRB\t\t75\t245\tYale\tIvy\t#N/A\t#N/A\t11/27/1972\t0\t0\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A",
+    "2013": "Ryan Schraeder\t25\t0\t\tATL\t13\t4\t0\t0\t0\t0\t0\t0\t0\t\t0\t0\t0\t\t0\tTE\t\t79\t300\t#N/A\t#N/A\t#N/A\t#N/A\t1/0/1900\t0\t0\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A",
+    "2007": "Nate Lawrie\t26\tIndianapolis\tIN\tCIN\t3\t2\t0\t0\t0\t0\t0\t0\t0\t\t0\t0\t0\t\t0\tTE\t\t79\t256\tYale\tIvy\t#N/A\t#N/A\t10/7/1981\t6\t2004\t0\t4.87\t23\t34\t117\t4.12\t6.71",
+    "2011": "Corey McIntyre\t32\tIndiantown\tFL\tBUF\t16\t1\t0\t0\t0\t0\t0\t0\t0\t\t0\t1\t4\t4\t0\tRB\t\t73\t245\tWest Virginia\tBig 12\t120\t67\t1/25/1979\t0\t0\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A",
+    "2004": "Antonio Brown\t26\tMiami\tFL\tWAS\t3\t0\t0\t0\t0\t0\t0\t0\t0\t\t0\t0\t0\t\t0\tWR\t\t70\t175\tWest Virginia\tBig 12\t120\t67\t3/3/1978\t0\t0\t0\t4.56\t13\t33.5\t105\t4.18\t6.98",
+    "2000": "Jake Moreland\t23\tMilwaukee\tWI\tNYJ\t7\t1\t0\t0\t0\t0\t0\t0\t0\t\t0\t0\t0\t\t0\tRB\t\t75\t255\tWest. Michigan\tMAC\t#N/A\t#N/A\t1/18/1977\t0\t0\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A",
+    "2003": "Nick Davis\t24\tManchester\tMI\tMIN\t1\t0\t0\t0\t0\t0\t0\t0\t0\t\t0\t0\t0\t\t0\tWR\t\t73\t180\tWisconsin\tBig Ten\t135\t60\t10/6/1979\t0\t0\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A",
+    "2002": "Chris Hetherington\t30\tNorth Branford\tCT\tSTL\t6\t4\t0\t0\t0\t0\t0\t1\t0\t0\t0\t1\t2\t2\t0\tRB\t\t75\t245\tYale\tIvy\t#N/A\t#N/A\t11/27/1972\t0\t0\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A",
+    "2005": "Nate Lawrie\t24\tIndianapolis\tIN\tTAM\t6\t0\t0\t0\t0\t0\t0\t0\t0\t\t0\t0\t0\t\t0\tTE\t\t79\t256\tYale\tIvy\t#N/A\t#N/A\t10/7/1981\t6\t2004\t0\t4.87\t23\t34\t117\t4.12\t6.71",
+    "2009": "Jim Sorgi\t29\tFraser\tMI\tIND\t1\t0\t0\t0\t0\t0\t0\t0\t0\t\t0\t0\t0\t\t0\tQB\t\t77\t196\tWisconsin\tBig Ten\t135\t60\t12/3/1980\t6\t2004\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A",
+    "2012": "Travis Beckum\t25\tOrange County\tCA\tNYG\t4\t0\t0\t0\t0\t0\t0\t0\t0\t\t0\t0\t0\t\t0\tTE\t\t75\t240\tWisconsin\tBig Ten\t135\t60\t8/27/1900\t3\t2009\t0\t4.62\t28\t0\t0\t0\t0",
+    "2001": "Tory Woodbury\t23\tWinston-Salem\tNC\tNYJ\t10\t0\t0\t0\t0\t0\t0\t0\t0\t\t0\t0\t0\t\t0\tQB\t\t74\t208\tWinston-Salem St.\tMEAC\t#N/A\t#N/A\t7/12/1978\t0\t0\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A",
+    "2010": "Devin Moore\t25\tIndianapolis\tIN\tIND\t4\t0\t0\t0\t0\t0\t0\t2\t-2\t-1\t0\t0\t0\t\t0\tRB\t\t70\t191\tWyoming\tMountain West\t69\t109\t11/6/1985\t0\t0\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A",
+    "1999": "Joe Zelenka\t23\tCleveland\tOH\tSFO\t13\t0\t0\t0\t0\t0\t0\t0\t0\t\t0\t0\t0\t\t0\tTE\t\t75\t265\tWake Forest\tACC\t86\t96\t3/9/1976\t0\t0\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A\t#N/A",
+    "2008": "Darius Reynaud\t24\tLuling\tLA\tMIN\t3\t0\t0\t0\t0\t0\t0\t0\t0\t\t0\t0\t0\t\t0\tWR\t\t69\t201\tWest Virginia\tBig 12\t120\t67\t12/29/1984\t0\t0\t0\t4.48\t20\t34.5\t130\t4.32\t6.88"
+}
